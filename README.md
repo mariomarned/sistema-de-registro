@@ -3,6 +3,6 @@
 Estado del proyecto: En construcción
 Para ejecutar el sistema debes poner:
 
-``` NPM install reactivó ```
+``` NPM install react ```
 
 
